@@ -1,0 +1,22 @@
+Best values for the ARX Model -> Data not cleare
+h = ylag
+[i,j],[i,j] = xlag[]
+a = n_terms
+i,  j, a, h
+[3, 8, 6, 1]
+RRMS for this specific combination
+0.3585167601109994
+What we want to have:
+
+Relationship between power consumption and outflow -> more interesting than rpm vs outflow
+For each pump individually and maybe fit a combined model. But that seems to be very hard.
+Is there a relationship between outflow and hight? 
+-> yes there should be but we are missing input data or at least somthing about the size of the tank
+
+What do we have
+static outflow over pump 1 speed
+
+
+Changes to the activation function RReLU yields significant improvements in the prediction. 
+
+Further 
